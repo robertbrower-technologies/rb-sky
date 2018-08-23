@@ -55,7 +55,7 @@ Once RbSkyModule is imported, you can use its directive in your Angular applicat
 <h1>
   {{title}}
 </h1>
-<myComponent rbSky></myComponent>
+<myComponent sky></myComponent>
 ```
 
 ## Demo
