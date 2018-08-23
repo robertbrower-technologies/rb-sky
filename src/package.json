@@ -1,0 +1,28 @@
+{
+  "name": "rb-sky",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/robertbrower-technologies/rb-sky"
+  },
+  "author": {
+    "name": "Robert Brower",
+    "email": "robertbrower.technologies@gmail.com"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robertbrower-technologies/rb-sky/issues"
+  },
+  "main": "rb-sky.umd.js",
+  "module": "rb-sky.js",
+  "jsnext:main": "rb-sky.js",
+  "typings": "rb-sky.d.ts",
+  "peerDependencies": {
+    "@angular/core": "^4.0.0",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4"
+  }
+}
